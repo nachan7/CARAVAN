@@ -228,7 +228,7 @@ footer {
   color: #fff;
 }
 
-@media screen and (max-windth:425px){
+@media screen and (max-width:425px){
   header {
     width: 100%;
   }
@@ -253,11 +253,6 @@ footer {
   main {
     width: 100%;
     display: block;
-  }
-
-  .blog {
-    width: 100%;
-    margin: 0;
   }
 
   .blog {
